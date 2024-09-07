@@ -9,7 +9,7 @@ Quem realizou o projeto foi:
 > [!CAUTION]
 > Esse arquivo/site foi criado antes do jogo do Brasil x Equador (06/09/2024)! Veremos o resultado no futuro e ver se trouxemos sorte.
 
-Apostas: <br> <br>
+Apostas: <br> 
 
   Rafa - 3x1 Equador  <br>
   Zago - 2x0 Brasil sil sil 
