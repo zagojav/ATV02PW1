@@ -1,0 +1,35 @@
+
+p{
+text-align: center;
+border: 5px solid black;
+padding: 25px 50px 75px 100px;
+}
+
+p{
+   font-size: 20px;
+   font-family: 'Times New Roman', Times, serif;
+   color: blueviolet;
+}
+h1{
+   background-color: aqua;
+}
+p {
+border-image: url(Imagem/border.png) 30 stretch;
+}
+table{background-image: url(Imagem/gatosselfie.jpg);
+   opacity: 1;
+   color: aliceblue;
+   height: 100%;   
+}
+
+ body{
+    background-image: url(Imagem/d81a6d73ed144c415e15f76d42fb4481.jpg);
+
+      
+ }
+
+
+Formulario{
+    text-align: center;
+}
+
